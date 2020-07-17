@@ -9,3 +9,8 @@ def home (request):
 
 def html_demo1(request):
     return render(request,"sample.html")
+
+def html_demo1(request):
+    return render(request,"sample1.html")
+
+ 
